@@ -1,7 +1,7 @@
+import React, { useEffect, useState } from 'react';
 import { PageTransition, SectionHeading, Button, Input } from '@/components/SharedUI';
 import { useAuth } from '@/hooks/use-auth';
 import { useLocation } from 'wouter';
-import { useEffect, useState } from 'react';
 import { Activity, Calendar, Trophy, Settings } from 'lucide-react';
 
 export default function UserDashboard() {

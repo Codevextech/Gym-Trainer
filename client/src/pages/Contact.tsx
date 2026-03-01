@@ -1,3 +1,4 @@
+import React from 'react';
 import { PageTransition, SectionHeading, Button, Input, Textarea } from '@/components/SharedUI';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';

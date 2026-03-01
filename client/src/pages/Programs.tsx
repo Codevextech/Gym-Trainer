@@ -1,3 +1,4 @@
+import React from 'react';
 import { PageTransition, SectionHeading, Button } from '@/components/SharedUI';
 import { usePrograms } from '@/hooks/use-programs';
 import { Link } from 'wouter';

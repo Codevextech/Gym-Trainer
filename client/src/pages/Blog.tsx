@@ -1,3 +1,4 @@
+import React from 'react';
 import { PageTransition, SectionHeading, Button } from '@/components/SharedUI';
 import { useQuery } from '@tanstack/react-query';
 import { api } from '@shared/routes';

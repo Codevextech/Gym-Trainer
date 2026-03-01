@@ -1,7 +1,7 @@
+import React, { useEffect } from 'react';
 import { PageTransition, SectionHeading, Button } from '@/components/SharedUI';
 import { useAuth } from '@/hooks/use-auth';
 import { useLocation } from 'wouter';
-import { useEffect } from 'react';
 import { useStats, useUsers } from '@/hooks/use-users';
 import { useMessages } from '@/hooks/use-messages';
 import { Users, LayoutList, Mail, Activity } from 'lucide-react';

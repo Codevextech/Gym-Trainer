@@ -1,3 +1,4 @@
+import React from 'react';
 import { PageTransition, SectionHeading } from '@/components/SharedUI';
 
 export default function Schedule() {

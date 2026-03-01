@@ -1,3 +1,4 @@
+import React from 'react';
 import { PageTransition, SectionHeading, Button } from '@/components/SharedUI';
 import { Check } from 'lucide-react';
 import { useAuth } from '@/hooks/use-auth';
