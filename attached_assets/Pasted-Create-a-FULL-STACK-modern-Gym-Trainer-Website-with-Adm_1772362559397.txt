@@ -1,0 +1,189 @@
+Create a FULL STACK modern Gym Trainer Website with Admin Panel.
+
+Project Name: FitCoach Pro
+
+Tech Stack:
+Frontend: HTML, CSS, JavaScript, Tailwind CSS
+Backend: Node.js + Express.js
+Database: Firebase Firestore
+Authentication: Firebase Auth
+Hosting Ready: Netlify (frontend) + Render/Replit (backend)
+
+--------------------------------------------------
+
+MAIN FEATURES:
+
+1. USER SIDE WEBSITE
+
+Create a professional fitness trainer website with modern UI.
+
+Pages Required:
+
+• Home Page
+- Hero section with trainer image
+- Fitness motivation tagline
+- Join Now button
+- Services overview
+- Transformation gallery
+- Client testimonials
+- Contact section
+
+• About Trainer
+- Trainer bio
+- Experience
+- Certifications
+- Skills
+- Achievements
+
+• Programs Page
+- Weight Loss Program
+- Muscle Gain Program
+- Personal Training
+- Online Coaching
+- Card with price + join button
+
+• Trainers Schedule
+- Weekly workout schedule
+- Time slots
+- Available sessions
+
+• Membership Page
+- Monthly / 3 Month / Year Plans
+- Online payment UI (mock)
+
+• Gallery Page
+- Workout photos
+- Before / After transformation
+
+• Blog / Tips Page
+- Fitness tips
+- Nutrition advice
+- Dynamic blog loading
+
+• Contact Page
+- Form (Name, Email, Message)
+- Store data in Firebase
+
+--------------------------------------------------
+
+2. USER AUTHENTICATION
+
+• Register
+• Login
+• Logout
+• Forgot Password
+• Firebase authentication
+
+--------------------------------------------------
+
+3. USER DASHBOARD
+
+After login user should see:
+
+- Profile
+- Membership Status
+- Joined Program
+- Workout Plan
+- Diet Plan
+- Trainer Messages
+
+--------------------------------------------------
+
+4. ADMIN PANEL (VERY IMPORTANT)
+
+Create separate Admin Dashboard.
+
+Admin Login Only.
+
+Admin Features:
+
+✔ Add/Edit/Delete Programs
+✔ Add Trainers
+✔ Manage Members
+✔ Approve Membership
+✔ Upload Workout Plans
+✔ Upload Diet Plans
+✔ Post Blogs
+✔ View Contact Messages
+✔ Upload Gallery Images
+✔ View Analytics (users count)
+
+Admin Panel UI:
+- Sidebar Navigation
+- Dashboard Cards
+- Responsive layout
+
+--------------------------------------------------
+
+5. DATABASE STRUCTURE (Firebase)
+
+Collections:
+
+users
+programs
+memberships
+blogs
+messages
+gallery
+workoutPlans
+dietPlans
+
+--------------------------------------------------
+
+6. UI DESIGN REQUIREMENTS
+
+- Dark Fitness Theme
+- Black + Red color scheme
+- Smooth animations
+- Glassmorphism cards
+- Mobile responsive
+- Modern gym style fonts
+
+--------------------------------------------------
+
+7. EXTRA FEATURES
+
+✔ BMI Calculator
+✔ Trainer Booking System
+✔ Progress Tracking
+✔ Notification Toast
+✔ Loading Animations
+
+--------------------------------------------------
+
+8. PROJECT STRUCTURE
+
+frontend/
+  index.html
+  about.html
+  programs.html
+  dashboard.html
+  admin.html
+  css/
+  js/
+
+backend/
+  server.js
+  routes/
+  controllers/
+  firebaseConfig.js
+
+--------------------------------------------------
+
+9. IMPORTANT OUTPUT REQUIREMENT
+
+Generate:
+
+✔ Complete folder structure
+✔ All frontend pages
+✔ Backend APIs
+✔ Firebase integration
+✔ Admin Panel working
+✔ Authentication working
+✔ Sample data
+✔ Setup instructions
+✔ Deployment steps
+
+Do NOT skip files.
+Do NOT create partial code.
+Generate FULL WORKING PROJECT.
